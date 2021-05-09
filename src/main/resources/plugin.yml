@@ -1,0 +1,7 @@
+name: RytEssentials
+version: ${project.version}
+main: net.royaltechnica.Rytessentials
+api-version: 1.16
+authors: [ Mini500, MrNissenDK, LordSnabel ]
+description: Custom Recipes for Royal Technica / Lorn SMP
+website: royaltechnica.net
