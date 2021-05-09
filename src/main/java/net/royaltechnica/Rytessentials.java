@@ -9,7 +9,7 @@ public final class Rytessentials extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        Bukkit.getConsoleSender().sendMessage(prefix + "§aPlugin successfully enabled bla bla");
+        Bukkit.getConsoleSender().sendMessage(prefix + "§aPlugin successfully enabled");
 
     }
     @Override
